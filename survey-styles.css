@@ -1,0 +1,19 @@
+#logo-container {
+background: none !important;}
+
+.question .question-display {max-width: none !important; }
+
+.question-sequence-label + div, .question-sequence-label + div div {
+width: 100% !important;
+}
+
+#page #survey-canvas:has( iframe) {width: 100% !important;}
+
+.logoBar span a { display: none !important;}
+
+.icon.pbi-glyph-fullscreen {
+transform: scale(1.5) !important;}
+
+iframe {
+height: 100vh !important;
+}
